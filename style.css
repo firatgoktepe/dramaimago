@@ -316,7 +316,7 @@ body {
     grid-row: 5/7;
   }
   .hero-image {
-    width: 50%;
+    width: 60%;
     justify-self: center;
     align-self: start;
     /* margin-left: 6rem; */
